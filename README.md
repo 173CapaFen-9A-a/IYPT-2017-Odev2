@@ -26,9 +26,9 @@ benzer çalışmalardan neyi nasıl farklı yapacağınızı açıklayınız. Be
 Projemin 2. aşaması deney aşamasıdır. Bu bölümde deney yapmak için izlediğim yol ve yöntemi, veri toplama ve materyal hazırlama aşamalarnı anlatacağım.
 # 1. Deneye Başlamadan Önce Veri Toplama
 Deneyi yapmak için öncelikle bir bilgi birikimine sahip olmam gerekir. Bu yüzden öncelikle Odev-1 de yaptığım gibi deneyi yapmak için bazı makalelerden ve videolardan yararlandım. Deney nasıl yapılır, nelere dikkat edilmelidir, materyaller nelerdir, deney süreci vb. öğrendikten sonra bunları uygulamaya koyuldum. Uygun ortam yaratıp deneyi yapmaya başlayabilirdim artık.
-# 2. Deney Ortamı
+## 2. Deney Ortamı
 Bulunduğum yere göre en iyi yer etüt odası oldu. Etüt odasında kimse olmadığı için ve kalabalıktan uzak olduğu için deneyi yapabileceğim en iyi yeri etüt odası olarak seçtim. Geniş olan bir masada çalıştım. Malzemelerimi düzenli ve erişebileceğim şekilde yerleştirdim.
-# 3. Deney Malzemeleri
+## 3. Deney Malzemeleri
 Deney malzemelerini sıralayacak olursak,
 - 4 tane pipet, 
 - 3 tane 0.5 litrelik su şişesi,
@@ -39,7 +39,7 @@ Deney malzemelerini sıralayacak olursak,
 - Açık ortamda yapmadığım için suyun dökülmesi esnasında suyu içine alabilecek bir kap,
 - Suyu dökmeniz için de bir bardak veya kap.
 
-# 4. Deneyi Yapanlar ve Deneyin Ne Kadar Sürdüğü
+## 4. Deneyi Yapanlar ve Deneyin Ne Kadar Sürdüğü
 Deneyi ben yaptım. Deney 2 saat sürdü. Deneyi yaparken, deneyi çekmek için arkadaşımdan yardım aldım.
 
 # Bulgular (Results)
