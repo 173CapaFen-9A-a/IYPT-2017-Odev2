@@ -23,41 +23,31 @@ yer  alan
 benzer çalışmalardan neyi nasıl farklı yapacağınızı açıklayınız. Benzer çalışmalardan nasıl yararlandığınızı ve sizin 
 çalışmanızın neleri hedeflediğini açıklayınız. Bu bölümde kaynakça gösterimi yapınız. 
 # Materyal ve Yöntem (Experimental Setup)
+Projemin 2. aşaması deney aşamasıdır. Bu bölümde deney yapmak için izlediğim yol ve yöntemi, veri toplama ve materyal hazırlama aşamalarnı anlatacağım.
+# 1. Deneye Başlamadan Önce Veri Toplama
+Deneyi yapmak için öncelikle bir bilgi birikimine sahip olmam gerekir. Bu yüzden öncelikle Odev-1 de yaptığım gibi deneyi yapmak için bazı makalelerden ve videolardan yararlandım. Deney nasıl yapılır, nelere dikkat edilmelidir, materyaller nelerdir, deney süreci vb. öğrendikten sonra bunları uygulamaya koyuldum. Uygun ortam yaratıp deneyi yapmaya başlayabilirdim artık.
+# 2. Deney Ortamı
+Bulunduğum yere göre en iyi yer etüt odası oldu. Etüt odasında kimse olmadığı için ve kalabalıktan uzak olduğu için deneyi yapabileceğim en iyi yeri etüt odası olarak seçtim. Geniş olan bir masada çalıştım. Malzemelerimi düzenli ve erişebileceğim şekilde yerleştirdim.
+# 3. Deney Malzemeleri
+Deney malzemelerini sıralayacak olursak,
+- 4 tane pipet, 
+- 3 tane 0.5 litrelik su şişesi,
+- Maket bıçağı,
+- Silikon tabancası ve silikon,
+- Makas,
+- Keseceğiniz yeri belirlemek adına keçeli kalem,
+- Açık ortamda yapmadığım için suyun dökülmesi esnasında suyu içine alabilecek bir kap,
+- Suyu dökmeniz için de bir bardak veya kap.
 
-Bu bölümde aşağıdaki kısımla
-ra ve alt başlıklara yer verilir
-
-* Çalışmanın yöntemi veya araştırma deseni,
-* Çalışma  grubunuz,  evreniniz,  örnekleminiz 
-(çalışmanızda  kişilerden  veri  toplamışsanız),  çalışma 
-sahanız, yeriniz ve bunların özellikleri,
-* Veri toplama araçlarınızın neler olduğu, onları  siz geliştirdiyseniz bunu nasıl yaptığınız ve  veri 
-toplama süreciniz,
-* Gözlemlerinizi, saha çalışmalarınızı ve bu
-nları nasıl gerçekleştirdiğiniz, verileri nasıl analiz ettiğiniz ve 
-bunun için hangi araç ya da yazılımları kullandığınız,
-* Deney düzenekleri, malzemeleri ve deneysel süreçleri (deneysel bir çalışma ise)
-
-Deneysel çalışmalarda deney düzeneği, verilerin nasıl toplandığı açıkça anlatılmalıdır. Deney düzeneğindeki 
-önemli ölçüm cihazlarının (ne olduğu, ölçüm aralığı, duyarlılığı vb.) kimyasal ve biyolojik malzemenin temel 
-özellikleri  belirtilmelidir.  
-
-Örneğin  bir voltmetre  kullanılıyorsa  bunun  ölçme  aralığı 0-220V, iç impedansı 10 Mohm olan bir voltmetre olarak belirtilmesi, ya da optik özellikleri incelenen bir cam 
-levhanın 25 mmx10 mmx1 mm boyutlarında, görünür bölgedeki ışığı geçiren bir cam plaka şeklinde tanımlanması 
-uygun olacaktır. 
-
-* Deneylerin nerede, kimler tarafından yapıldığı, ne kadar sürdüğü ve kaç kez hangi koşullar altında 
-tekrarlandığı gibi bilgilerin açık, öz ve anlaşılır bir şekilde verilmesi gerekir. Bu kısımd
-a çalışılan 
-laboratuvarın özellikleri de belirtilmelidir. 
-
-* Kullanılan analiz ve hesaplamalar bu bölümde verilmelidir.
+# 4. Deneyi Yapanlar ve Deneyin Ne Kadar Sürdüğü
+Deneyi ben yaptım. Deney 2 saat sürdü. Deneyi yaparken, deneyi çekmek için arkadaşımdan yardım aldım.
 
 # Bulgular (Results)
-Burda yaptığınız başlangıç deneyinin sonuçlarını yazacaksınız. Yapacağınız deneyinin başarılı veya başarısız olması önemli değildir. 10 Mayıs 2017'ye kadar projeyinizi geliştirmeniz için izin verilecektir. Fakat yapacağınız IYPT projeniz için bir başlangıç yapmanız gerekmektedir. Basit bir deney olsun ve çok bir zamanını almasın. Yaptığınız deneyin birkaç resmini buraya ekleyiniz ve sonuçları kısaca açıklayın. İleride deneyinizi nasıl geliştereceğinizi anlatın. 
-
-Örnek olarak, bir su birikintisi içinde yanan bir mum bir bardak ile kapatıldığında su seviyesi yükselmektedir. Bu deneyle ilgili bazı resimleri [burdan](https://www.stevespanglerscience.com/lab/experiments/why-does-the-water-rise/) bulabilirsiniz. Sizin de benzer resimler çekmeniz beklenmektedir. Her grup kendi deneyine ait resimleri çekecektir. Başka bir grubun resimleri kullanıldığı takdirde bu bir kopya girişimi olarak kabul edilecektir. 
-
+Deneyim başarısızlıkla sonuçlandı. Yaptığım ilk deney olduğu için hatalarımı gördüm. Böylece her yapacağım deneyde her geçen gün yanlışlarımı görüp düzelterek devam edeceğim. Bu deneyi yaparken yaptığım hatalar ve yapmam gerekenler:
+- Daha sağlam su şişeleri kullanmalıyım. Böylece düzenek sağlam bir şekilde durur ve tutmamıza gerek kalmayacaktır.
+- Kapakları yapıştırırken daha dikkatli olmalıyım. Şişelerin su kaçırmaması gerekmektedir.
+- Kapakları delip pipetleri yerleştirdikten sonra pipetlerin etrafını iyice kapatmalıyım. Çünkü sızma olmaması gerekmektedir.
+  Deneyimde bu hataların farkına vardım ve nasıl düzelteciğimi anladım. Böylece bu projeyi başarana kadar deneylerimi devam ettireceğim. Her yaptığım başarısız deney sonrasında hatalarımı tekrar tekrar düzelteceğim.
 
 # Sonuç ve Tartışma (Conclusion and Discussion) 
 
