@@ -22,8 +22,8 @@ Daha kapsamlı bir ödev için daha önce yapılmış
 
 ## Aşağıdaki Başlıkları İçini Doldurunuz. (Özet kısmını daha önce yazmıştınız.) 
 
-# Özet (Abstract)
-Buraya Ödev-1'de yazdığınız özeti yazınız. 
+#  Heronun Çeşmesi
+Yapacağım proje "Heronun Çeşmesi".Heronun çeşmesi, birinci yüzyılda yaşayan matematikçi ve fizikçi Heron tarafından icat edilen bir düzenektir.Heron tapınaktaki kapıların otomatik olarak açılıp kapanması için bu mekanizmayı kurmuştur. Heron çeşmesinin amacı bir motor veya jeneratör yardımı olmaksızın, sıvıyı bulunduğu yerden daha yukarılara taşımaktır.Bu sistem üst üste duran haznelerin birbirlerine borularla bağlanmasıyla oluşan bir sistemdir. Bu sistem sonsuza dek devir daim yapan bir sistem, sıvı buharlaşmaz veya yok olmaz.Burada su ve hava basıncından yararlanılır. Heronun çeşmesi fizik için gerçekten de harika bir proje.Projeyi yaparken parametreleri değiştireceğim ve sonuçlarını karşılaştıp kaydedeceğim.Böylece bir sonuca varacağım. Bu projeyi yaparken kullanacağım malzemeler aşağıda bulunan alt başlıkta yazılmıştır.
 # Giriş (Introduction)
 Bu bölüm; 
 literatür
