@@ -42,6 +42,8 @@ Deney malzemelerini sıralayacak olursak,
 ## 4. Deneyi Yapanlar ve Deneyin Ne Kadar Sürdüğü
 Deneyi ben yaptım. Deney 2 saat sürdü. Deneyi yaparken, deneyi çekmek için arkadaşımdan yardım aldım.
 
+## Yöntem
+
 # Bulgular (Results)
 Deneyim başarısızlıkla sonuçlandı. Yaptığım ilk deney olduğu için hatalarımı gördüm. Böylece her yapacağım deneyde her geçen gün yanlışlarımı görüp düzelterek devam edeceğim. Bu deneyi yaparken yaptığım hatalar ve yapmam gerekenler:
 - Daha sağlam su şişeleri kullanmalıyım. Böylece düzenek sağlam bir şekilde durur ve tutmamıza gerek kalmayacaktır.
