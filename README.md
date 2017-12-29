@@ -43,11 +43,11 @@ Deney malzemelerini sıralayacak olursak,
 Deneyi ben yaptım. Deney 2 saat sürdü. Deneyi yaparken, deneyi çekmek için arkadaşımdan yardım aldım.
 
 ## Yöntem
-
+Öncelikle silikon tabancasını prize taktım. İki kapağa üst üste gelecek şekilde 2 delik açtım. Silikon iyice ısındıktan sonra o iki kapağı birbirine yapıştırdım. Sonra bir pipeti bir deliğe yerleştirdim. 2 tane pipeti iç içe koydum ve deliğe yerleştirdim. Sonra şişeyi kapağıyla ağzını kapattım. Öbür şişenin alt kısmında delik açtım. Sonra delik açtığım şişenin de ağzını kapattım (iki delik açtığım o kapakla). Daha sonra alt kısmını açtığım şişenin üstüne, 2 delik açtığım bir kapak yapıştırdım. O kapağın bir deliğinden bir tane daha pipet geçirdim. Sonra bir şişenin üst kısmını kestim. En üstteki kapakla kapattım. Böylece düzenek hazır oldu. Sıra deneyi uygulamaya geldi. Düzeneğin altına bir kap yerleştirdim. Bir bardakla suyu yavaşça döktüm. En alttaki şişe dolduğunda düzeneği ters çevirdim. Sonra  su ortadakine boşaldı. Daha sonra tekrar üstüne su döktüm. Çeşmenin akması gerekirdi artık. Ne yazık ki deneyimde çeşme akmadı.
 # Bulgular (Results)
 Deneyim başarısızlıkla sonuçlandı. Yaptığım ilk deney olduğu için hatalarımı gördüm. Böylece her yapacağım deneyde her geçen gün yanlışlarımı görüp düzelterek devam edeceğim. Bu deneyi yaparken yaptığım hatalar ve yapmam gerekenler:
 - Daha sağlam su şişeleri kullanmalıyım. Böylece düzenek sağlam bir şekilde durur ve tutmamıza gerek kalmayacaktır.
-- Kapakları yapıştırırken daha dikkatli olmalıyım. Şişelerin su kaçırmaması gerekmektedir.
+- Kapakarı yapıştırırken daha dikkatli olmalıyım. Şişelerin su kaçırmaması gerekmektedir.
 - Kapakları delip pipetleri yerleştirdikten sonra pipetlerin etrafını iyice kapatmalıyım. Çünkü sızma olmaması gerekmektedir.
   Deneyimde bu hataların farkına vardım ve nasıl düzelteciğimi anladım. Böylece bu projeyi başarana kadar deneylerimi devam ettireceğim. Her yaptığım başarısız deney sonrasında hatalarımı tekrar tekrar düzelteceğim.
 
