@@ -2,26 +2,11 @@
 #  Heronun Çeşmesi
 Yapacağım proje "Heronun Çeşmesi".Heronun çeşmesi, birinci yüzyılda yaşayan matematikçi ve fizikçi Heron tarafından icat edilen bir düzenektir.Heron tapınaktaki kapıların otomatik olarak açılıp kapanması için bu mekanizmayı kurmuştur. Heron çeşmesinin amacı bir motor veya jeneratör yardımı olmaksızın, sıvıyı bulunduğu yerden daha yukarılara taşımaktır.Bu sistem üst üste duran haznelerin birbirlerine borularla bağlanmasıyla oluşan bir sistemdir. Bu sistem sonsuza dek devir daim yapan bir sistem, sıvı buharlaşmaz veya yok olmaz.Burada su ve hava basıncından yararlanılır. Heronun çeşmesi fizik için gerçekten de harika bir proje.Projeyi yaparken parametreleri değiştireceğim ve sonuçlarını karşılaştıp kaydedeceğim.Böylece bir sonuca varacağım. Bu projeyi yaparken kullanacağım malzemeler aşağıda bulunan materyal ve yöntem adlı başlık altında yazılmıştır.
 # Giriş (Introduction)
-Bu bölüm; 
-literatür
-taramasından sonra araştırmanın amacı, problem  ve alt problemler, hipotezler ve alt 
-hipotezler, varsayımlar (
-yapılan kabuller
-), sınırlılıklar, tanımlar alt başlıklarına yer verilecek olan bölümdür. 
-Bu bölümde
-literatür
-araştırması yaparken ve çalışmanızı desteklemek üzere alıntı yaparken proje çalışmanızın 
-konusu ile ilgili başkalarının yaptığı çalışmalardan söz ediniz. Sizin çalışmanızın 
-diğer 
-benzer çalışmalardan ayrılan 
-yönlerini belirtiniz. Bu çalışmayı, 
-literatürde
-ki 
-hangi boşluğu doldurmak için yaptığınızı ve 
-literatürde
-yer  alan 
-benzer çalışmalardan neyi nasıl farklı yapacağınızı açıklayınız. Benzer çalışmalardan nasıl yararlandığınızı ve sizin 
-çalışmanızın neleri hedeflediğini açıklayınız. Bu bölümde kaynakça gösterimi yapınız. 
+Heron'un çeşmesi çok eskilerde kullanılan bir sistemdir. Üst üste duran haznelerin birbirleriyle borularla yahut pipetlerle bağlanmasıyla oluşan, su ve hava basıncından yararlanan ve sonsuz dek devir daim yapan bir fıskıyeyi oluşturur. Aslında bu sistemin yapılış amacı, bir tapınak kapısının otomatik olarak açılıp kapanmasını sağlamaktır. Heron bu düzeneği bu amaçla yapmıştır. Proje belirlemeye çalışırken "Heron's Fountain" gördüm ve merak ettim. Okuduktan sonra hoşuma gitti.Yapmak istedim. Öncelikle fizik öğretmenime sordum. Gayet güzel bir proje olacağını söyleyip onayını aldım. Bunu araştırdım. IYPT'nin 2018 sorunlarından olduğu için kaynak bulamam diye düşünmüştüm. Yalnız öyle olmadı. Youtube üzerinden videolar ve birçok makale, yazı buldum. Deneyi yapmak için sabırsızlanıyordum. Gerçekten de epey veri topladıktan sonra nihayet deneyi yapma sırası geldi.Deneyimi yaptım ve deney ile igili yazdıklarımı aşağıda belirttim. 
+## Kaynakça
+http://muhendisonline.net/heron-cesmesi-hidroliksiz-su-tasinmasi.html
+https://youtu.be/8mqr4TtR3mY
+
 # Materyal ve Yöntem (Experimental Setup)
 Projemin 2. aşaması deney aşamasıdır. Bu bölümde deney yapmak için izlediğim yol ve yöntemi, veri toplama ve materyal hazırlama aşamalarnı anlatacağım.
 ## 1. Deneye Başlamadan Önce Veri Toplama
